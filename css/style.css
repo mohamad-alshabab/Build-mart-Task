@@ -1,0 +1,47 @@
+.nav-get {
+    height: 30px;
+    min-height:30;
+    background-color: rgb(5, 5, 121);
+    color: white;
+}
+.nav-right-icon{
+margin-right: 10%;
+}
+.card{
+    background-color: whitesmoke;
+    display: inline;
+}
+.vertical-menu {
+    width: 200px;
+  }
+  
+  .vertical-menu a {
+    color: black;
+    display: block;
+    
+    text-decoration: none;
+  }
+  
+  
+  .vertical-menu a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .testimonial-box img {
+    display: inline-block;
+    margin-left: -66px;
+    width: 262px;
+    height: 146px;
+}
+.testimonial-box h4 {
+    color: darkblue;
+}
+.testimonial-box p {
+    margin-bottom: 20px;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+}
+.ratings-icons {
+    color: #fec42d;
+}
